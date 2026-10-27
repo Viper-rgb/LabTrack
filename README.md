@@ -19,3 +19,40 @@ Sample Registration: Register patient samples and assign unique sample identific
 
 7.Role-Based Access: Provide appropriate permissions and interfaces for administrators, laboratory technicians, and pathologists.
 
+
+--------------------------------------------------------------------------------------------
+LabTrack — Project roadmap
+
+Phase 1 — Project setup and UI
+
+Start here
+
+Create the Flutter project, theme, navigation, dashboard, and reusable widgets. Use mock data initially.
+
+
+
+Phase 2 — Sample management
+
+Register fictional patients and samples, generate unique sample IDs, and track sample status.
+
+
+
+
+Phase 3 — Test workflows
+
+Build technician worklists, test result entry, pathologist review, and approval workflows.
+
+
+
+
+Phase 4 — Reports and activity logs
+
+Generate PDF reports, filter records by date, search activities, and maintain audit history.
+
+
+
+
+Phase 5 — Backend and testing
+
+Add authentication, a Node.js REST API, persistent database storage, unit tests, and integration tests.
+
